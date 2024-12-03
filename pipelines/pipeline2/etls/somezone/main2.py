@@ -1,10 +1,11 @@
 from utils import some_adding_function
 
 
-def other_pipeline_just_to_sample():
+def other_pipeline_just_to_sample(a :str):
 
 
-    pass
+    return a*3
+    
 
 
 if __name__ == "__main__":
