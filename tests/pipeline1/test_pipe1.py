@@ -11,3 +11,4 @@ from pipelines.pipeline1.etls.somezone.main1 import a_function_same_file
 def  test_a_function():
 
     assert a_function_same_file(3,2) == 6
+

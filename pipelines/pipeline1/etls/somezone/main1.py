@@ -6,7 +6,7 @@
 
 
 from utils import some_adding_function
-
+from utils import another_utils_func
 
 def a_function_same_file(x,y):
 
